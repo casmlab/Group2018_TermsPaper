@@ -1,0 +1,154 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{00}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{{\tt DOI:}\penalty0{#1}\ }
+  \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       #1{#1}          \fi
+
+\bibitem{Boyd2014Bullying}
+{Danah Boyd}. 2014.
+\newblock \showarticletitle{Bullying: Is Social Media Amplifying Meanness and
+  Cruelty?}. In {\em It's complicated: the social lives of networked teens}.
+  Yale University Press, New Haven, 128--152.
+\newblock
+\showISBNx{978-0-300-16631-6}
+\showLCCN{HQ799.2.I5 B68 2014}
+
+
+\bibitem{Chen2012Detecting}
+{Ying Chen}, {Yilu Zhou}, {Sencun Zhu}, {and} {Heng Xu}. 2012.
+\newblock \showarticletitle{Detecting offensive language in social media to
+  protect adolescent online safety}. In {\em Privacy, Security, Risk and Trust
+  (PASSAT), 2012 International Conference on and 2012 International Conference
+  on Social Computing (SocialCom)}. IEEE, 71--80.
+\newblock
+\showURL{%
+\url{http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=6406271}}
+
+
+\bibitem{Cohen2015Transgender}
+{Noah Cohen} {and} {MaryAnn Spoto}. 2015.
+\newblock \showarticletitle{Transgender N.J. Game Developer Jumps from GWB
+  After Online Bullying}.
+\newblock {\em NJ.com\/} (2015).
+\newblock
+\showURL{%
+\url{http://www.nj.com/monmouth/index.ssf/2015/04/post\_18.html}}
+
+
+\bibitem{Dadvar2012Towards}
+{Maral Dadvar}, {Roeland Ordelman}, {Franciska~de Jong}, {and} {Dolf
+  Trieschnigg}. 2012.
+\newblock \showarticletitle{Towards User Modelling in the Combat against
+  Cyberbullying}. In {\em Natural Language Processing and Information Systems}
+  {\em (Lecture Notes in Computer Science)}, {Gosse Bouma}, {Ashwin Ittoo},
+  {Elisabeth Métais}, {and} {Hans Wortmann} (Eds.). Springer Berlin
+  Heidelberg, 277--283.
+\newblock
+
+
+\bibitem{Davis2015Parents}
+{Matthew Davis}, {Sarah Clark}, {Dianne Singer}, {Amilcar Matos-Moreno}, {and}
+  {Anna Daly~Kauffman}. 2015.
+\newblock \showarticletitle{Parents conflicted about how to label, punish
+  cyberbullying}.
+\newblock {\em C.S. Mott Children's Hostpital National Poll on Children's
+  Health\/} {24}, 4 (2015), Online.
+\newblock
+\showURL{%
+\url{http://mottnpch.org/reports-surveys/parents-conflicted-about-how-label-punish-cyberbullying}}
+
+
+\bibitem{Dean2012Story}
+{Michelle Dean}. 2012.
+\newblock \showarticletitle{The Story of Amanda Todd}.
+\newblock {\em The New Yorker\/} (2012).
+\newblock
+\showURL{%
+\url{http://www.newyorker.com/culture/culture-desk/the-story-of-amanda-todd}}
+
+
+\bibitem{Dinakar2011Modeling}
+{Karthik Dinakar}, {Roi Reichart}, {and} {Henry Lieberman}. 2011.
+\newblock \showarticletitle{Modeling the detection of Textual Cyberbullying.}.
+  In {\em The Social Mobile Web}.
+\newblock
+\showURL{%
+\url{http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/download/3841Karthik/4384}}
+
+
+\bibitem{Duggan2014Online}
+{Maeve Duggan}. 2014.
+\newblock {\em Online Harassment}.
+\newblock {T}echnical {R}eport. Pew Research Center.
+\newblock
+
+
+\bibitem{Guberman2017Challenges}
+{Joshua Guberman} {and} {Libby Hemphill}. 2017.
+\newblock \showarticletitle{Challenges in Modifying Existing Scales for
+  Detecting Harassment in Individual Tweets}. In {\em 50th Annual Hawaii
+  International Conference on System Sciences (HICSS-50)}.
+\newblock
+
+
+\bibitem{Pater2016Characterizations}
+{Jessica~A. Pater}, {Moon~K. Kim}, {Elizabeth~D. Mynatt}, {and} {Casey
+  Fiesler}. 2016.
+\newblock \showarticletitle{Characterizations of Online Harassment: Comparing
+  Policies Across Social Media Platforms}. ACM Press, 369--374.
+\newblock
+\showISBNx{978-1-4503-4276-6}
+\showDOI{%
+\url{http://dx.doi.org/10.1145/2957276.2957297}}
+
+
+\bibitem{Reynolds2011Using}
+{Kelly Reynolds}, {April Kontostathis}, {and} {Lynne Edwards}. 2011.
+\newblock \showarticletitle{Using machine learning to detect cyberbullying}. In
+  {\em Machine Learning and Applications and Workshops (ICMLA), 2011 10th
+  International Conference on}, Vol.~2. IEEE, 241--244.
+\newblock
+\showURL{%
+\url{http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=6147681}}
+
+
+\bibitem{Sood2012Automatic}
+{Sara~Owsley Sood}, {Elizabeth~F. Churchill}, {and} {Judd Antin}. 2012.
+\newblock \showarticletitle{Automatic identification of personal insults on
+  social news sites}.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology\/} {63}, 2 (2012), 270--285.
+\newblock
+\showURL{%
+\url{http://onlinelibrary.wiley.com/doi/10.1002/asi.21690/full}}
+
+
+\end{thebibliography}
