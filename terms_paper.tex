@@ -1,0 +1,201 @@
+\documentclass{sigchi}
+
+% Use this section to set the ACM copyright statement (e.g. for
+% preprints).  Consult the conference website for the camera-ready
+% copyright statement.
+
+% Copyright
+\CopyrightYear{2017}
+%\setcopyright{acmcopyright}
+\setcopyright{acmlicensed}
+%\setcopyright{rightsretained}
+%\setcopyright{usgov}
+%\setcopyright{usgovmixed}
+%\setcopyright{cagov}
+%\setcopyright{cagovmixed}
+% DOI
+%\doi{http://dx.doi.org/10.475/123_4}
+% ISBN
+%\isbn{123-4567-24-567/08/06}
+%Conference
+%\conferenceinfo{CHI'16,}{May 07--12, 2016, San Jose, CA, USA}
+%Price
+%\acmPrice{\$15.00}
+
+% Use this command to override the default ACM copyright statement
+% (e.g. for preprints).  Consult the conference website for the
+% camera-ready copyright statement.
+
+%% HOW TO OVERRIDE THE DEFAULT COPYRIGHT STRIP --
+%% Please note you need to make sure the copy for your specific
+%% license is used here!
+% \toappear{
+% Permission to make digital or hard copies of all or part of this work
+% for personal or classroom use is granted without fee provided that
+% copies are not made or distributed for profit or commercial advantage
+% and that copies bear this notice and the full citation on the first
+% page. Copyrights for components of this work owned by others than ACM
+% must be honored. Abstracting with credit is permitted. To copy
+% otherwise, or republish, to post on servers or to redistribute to
+% lists, requires prior specific permission and/or a fee. Request
+% permissions from \href{mailto:Permissions@acm.org}{Permissions@acm.org}. \\
+% \emph{CHI '16},  May 07--12, 2016, San Jose, CA, USA \\
+% ACM xxx-x-xxxx-xxxx-x/xx/xx\ldots \$15.00 \\
+% DOI: \url{http://dx.doi.org/xx.xxxx/xxxxxxx.xxxxxxx}
+% }
+
+% Arabic page numbers for submission.  Remove this line to eliminate
+% page numbers for the camera ready copy
+% \pagenumbering{arabic}
+
+% Load basic packages
+\usepackage{balance}       % to better equalize the last page
+\usepackage{graphics}      % for EPS, load graphicx instead 
+\usepackage[T1]{fontenc}   % for umlauts and other diaeresis
+\usepackage{txfonts}
+\usepackage{mathptmx}
+\usepackage[pdflang={en-US},pdftex]{hyperref}
+\usepackage{color}
+\usepackage{booktabs}
+\usepackage{textcomp}
+
+% Some optional stuff you might like/need.
+\usepackage{microtype}        % Improved Tracking and Kerning
+% \usepackage[all]{hypcap}    % Fixes bug in hyperref caption linking
+\usepackage{ccicons}          % Cite your images correctly!
+% \usepackage[utf8]{inputenc} % for a UTF8 editor only
+
+% If you want to use todo notes, marginpars etc. during creation of
+% your draft document, you have to enable the "chi_draft" option for
+% the document class. To do this, change the very first line to:
+% "\documentclass[chi_draft]{sigchi}". You can then place todo notes
+% by using the "\todo{...}"  command. Make sure to disable the draft
+% option again before submitting your final document.
+\usepackage{todonotes}
+
+% Paper metadata (use plain text, for PDF inclusion and later
+% re-using, if desired).  Use \emtpyauthor when submitting for review
+% so you remain anonymous.
+\def\plaintitle{Toxicity Online: Conceptual Devices for Understanding and Explaining Cyberbullying, Online Harassment, and Cyber Aggression}
+\def\plainauthor{First Author, Second Author, Third Author,
+  Fourth Author, Fifth Author, Sixth Author}
+\def\emptyauthor{}
+\def\plainkeywords{Authors' choice; of terms; separated; by
+  semicolons; include commas, within terms only; required.}
+\def\plaingeneralterms{Documentation, Standardization}
+
+% llt: Define a global style for URLs, rather that the default one
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{
+    \def\UrlFont{\sf}
+  }{
+    \def\UrlFont{\small\bf\ttfamily}
+  }}
+\makeatother
+\urlstyle{leo}
+
+% To make various LaTeX processors do the right thing with page size.
+\def\pprw{8.5in}
+\def\pprh{11in}
+\special{papersize=\pprw,\pprh}
+\setlength{\paperwidth}{\pprw}
+\setlength{\paperheight}{\pprh}
+\setlength{\pdfpagewidth}{\pprw}
+\setlength{\pdfpageheight}{\pprh}
+
+% Make sure hyperref comes last of your loaded packages, to give it a
+% fighting chance of not being over-written, since its job is to
+% redefine many LaTeX commands.
+\definecolor{linkColor}{RGB}{6,125,233}
+\hypersetup{%
+  pdftitle={\plaintitle},
+% Use \plainauthor for final version.
+%  pdfauthor={\plainauthor},
+  pdfauthor={\emptyauthor},
+  pdfkeywords={\plainkeywords},
+  pdfdisplaydoctitle=true, % For Accessibility
+  bookmarksnumbered,
+  pdfstartview={FitH},
+  colorlinks,
+  citecolor=black,
+  filecolor=black,
+  linkcolor=black,
+  urlcolor=linkColor,
+  breaklinks=true,
+  hypertexnames=false
+}
+
+\makeatletter
+\def\@copyrightspace{\relax}
+\makeatother
+
+% create a shortcut to typeset table headings
+% \newcommand\tabhead[1]{\small\textbf{#1}}
+
+% End of preamble. Here it comes the document.
+\begin{document}
+
+\title{\plaintitle}
+
+\numberofauthors{3}
+\author{%
+  \alignauthor{Leave Authors Anonymous\\
+    \affaddr{for Submission}\\
+    \affaddr{City, Country}\\
+    \email{e-mail address}}\\
+  \alignauthor{Leave Authors Anonymous\\
+    \affaddr{for Submission}\\
+    \affaddr{City, Country}\\
+    \email{e-mail address}}\\
+  \alignauthor{Leave Authors Anonymous\\
+    \affaddr{for Submission}\\
+    \affaddr{City, Country}\\
+    \email{e-mail address}}\\
+}
+
+\maketitle
+
+\begin{abstract}
+	This paper reviews various terms used by Internet researchers: ``cyberbullying'', ``online harassment'', ``cyber aggression'', and ``toxicity''. We examine how scholars use them in both overlapping and disparate ways to refer to myriad hurtful and antisocial online behaviors. These behaviors can have dire and long-lasting effects on victims and online communities and demand researchers' attention. However, without clarity, the terms operate as jargon rather than as devices that help scholars from multiple fields communicate with one another and with the public. We recognize that one problem for the terms is the translation from offline to online spaces, and discuss the inadequacies of the analogies between online and offline behaviors that fall under them. We also illustrate the problems this lack of specificity presents using example incidents from Instagram and Twitter. We then propose a new taxonomy of toxicity as a useful perspective for dealing with these behaviors. Our goal is to clarify terms to provide conceptual tools for scholars to theorize about, model, and reduce toxic Internet behaviors.
+\end{abstract}
+
+\category{H.5.m.}{Information Interfaces and Presentation
+  (e.g. HCI)}{Miscellaneous} \category{See
+  \url{http://acm.org/about/class/1998/} for the full list of ACM
+  classifiers. This section is required.}{}{}
+
+\keywords{\plainkeywords}
+
+\section{Introduction}
+
+In recent years, toxic online behaviors have garnered increased attention from the media and have earned a permanent place in public discourse.  In response to what is clearly a widespread problem \cite{Duggan2014Online} with potentially dire consequences \cite{Dean2012Story,Cohen2015Transgender}, computer-mediated communication (CMC) and computer science (CS) researchers have begun working toward technological interventions, often focusing on machine-learning approaches \cite{Sood2012Automatic,Chen2012Detecting,Dadvar2012Towards,Dinakar2011Modeling,Reynolds2011Using}.  While many people across a multitude of fields in both research and industry are working toward curbing this problem, the precise nature of the problem remains unclear.  Laypeople and reserachrs alike appear to hold a multitude of beliefs about what is and is not harassment, cyber bullying, or hurtful behavior, and whether harassment and cyber bullying are unique categories.  Pater and colleagues \cite{Pater2016Characterizations} describe how, in industry, this lack of consensus is exemplified by the great differences between social-media platfroms in what is and is not considered appropriate behavior .  Among the general public, the myriad of opinions is typified by the difference between what groups (e.g. teenagers and adults) consider to be cyber bullying \cite{Boyd2014Bullying} as differnces of opinion within groups (e.g. parents) \cite{Davis2015Parents}.
+
+It is probably fair to say that most of us have, in broad terms, a good idea of of what is or is not online harassment, cyber bullying, and/or cyber-aggression.  But, what would you say if asked to provide detailed definitions for these terms?  Being able to differentiate between malicious and benign online content depends not only on our own sense of where the lines are, but also on agreeing with eachother about when these lines are crossed.  The most common method of training machine-learning classifiers to detect inappropriate online behavior relies on people like us to manually differentiate malicious content from benign content.  The reliability of machine-learning classifiers is tied to the inter-rater reliability of the humans who provide the training data.  Guberman and Hemphil \cite{Guberman2017Challenges} found that, even when provided with quite specific definitions for labelling content, human raters still differed in their interpretations for a variety reasons.  
+
+In this paper, we focus primarily on the varied definitions of the terms, as used by internet researchers.  We highlight the usage of three main terms: ``online harassment'', ``cyber bullying'', and ``cyber aggression''.  Beyond the methodological implications of the strenght of our definitions, it is important to the research community as a whole that we understand what our peers are referring to when they use these terms.  Often, these terms used without operational definitons, such that it is unclear whether researchers are talking about the same phenomena.  In other cases, one of these terms will be used as an umbrella term encompassing the other two terms.  There seems to be disagreement about which of these terms is the superset under which the other terms fit.  Additionally, some researchers go to great lengths to justify the adaptation of traditional definitons of bullying to the various antisocial behaviors observed online, even when evidence suggests that these adaptated definitions do not adequately describe the online phenomena.  We believe it is necessery to reconcile these differing perspectives and definitons in order to combat the problem most effectively.  As a community, it is important that we agree about the nature of this problem, and that our definitions conform not only to the observed phenomena, but also to the types of behavior members of the public / users of various CMC platforms actaully find to be concerning.  After a discussion of the existing usages of these terms, we propose a new taxonomy in which the superset is less value-laden than terms like cyber bullying.  We suggest researchers focus on specific behaviors, which may vary in severity and required action depending on the contexts in which they occur.
+
+\section{Online Harassment}
+
+\section{Cyber Bullying}
+
+\section{Cyber Aggression}
+
+\section{Toxicity}
+
+\section{Moving Forward}
+
+% BALANCE COLUMNS
+\balance{}
+
+% REFERENCES FORMAT
+% References must be the same font size as other body text.
+\bibliographystyle{SIGCHI-Reference-Format}
+\bibliography{Remote.bib}
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
