@@ -1,0 +1,79 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: terms_paper.aux
+The style file: SIGCHI-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: Remote.bib.bib
+Name 1 in "Amanda Lenhart," has a comma at the end for entry Lenhart2007Cyberbullying
+while executing---line 3202 of file SIGCHI-Reference-Format.bst
+Name 1 in "Amanda Lenhart," has a comma at the end for entry Lenhart2007Cyberbullying
+while executing---line 3202 of file SIGCHI-Reference-Format.bst
+Name 1 in "Amanda Lenhart," has a comma at the end for entry Lenhart2007Cyberbullying
+while executing---line 3202 of file SIGCHI-Reference-Format.bst
+Name 1 in "Amanda Lenhart," has a comma at the end for entry Lenhart2007Cyberbullying
+while executing---line 3248 of file SIGCHI-Reference-Format.bst
+Name 1 in "Amanda Lenhart," has a comma at the end for entry Lenhart2007Cyberbullying
+while executing---line 3248 of file SIGCHI-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty address in Chen2012Detecting
+Warning--no number and no volume in Cohen2015Transgender
+Warning--page numbers missing in both pages and numpages fields in Cohen2015Transgender
+Warning--empty address in Dadvar2012Towards
+Warning--no number and no volume in Dean2012Story
+Warning--page numbers missing in both pages and numpages fields in Dean2012Story
+Warning--empty publisher in Dinakar2011Modeling
+Warning--empty address in Dinakar2011Modeling
+Warning--page numbers missing in both pages and numpages fields in Dinakar2011Modeling
+Warning--empty booktitle in Guberman2017Challenges
+Warning--empty publisher in Guberman2017Challenges
+Warning--empty address in Guberman2017Challenges
+Warning--page numbers missing in both pages and numpages fields in Guberman2017Challenges
+Name 1 in "Amanda Lenhart," has a comma at the end for entry Lenhart2007Cyberbullying
+while executing---line 3340 of file SIGCHI-Reference-Format.bst
+Warning--empty institution in Lenhart2007Cyberbullying
+Warning--empty booktitle in Pater2016Characterizations
+Warning--empty address in Pater2016Characterizations
+Warning--empty address in Reynolds2011Using
+You've used 24 entries,
+            5283 wiz_defined-function locations,
+            1418 strings with 20263 characters,
+and the built_in function-call counts, 31490 in all, are:
+= -- 4453
+> -- 732
+< -- 3
++ -- 224
+- -- 981
+* -- 2109
+:= -- 3039
+add.period$ -- 123
+call.type$ -- 24
+change.case$ -- 168
+chr.to.int$ -- 24
+cite$ -- 41
+duplicate$ -- 1904
+empty$ -- 1342
+format.name$ -- 304
+if$ -- 7044
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 86
+newline$ -- 240
+num.names$ -- 146
+pop$ -- 747
+preamble$ -- 1
+purify$ -- 260
+quote$ -- 0
+skip$ -- 510
+stack$ -- 0
+substring$ -- 4558
+swap$ -- 183
+text.length$ -- 1476
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 212
+warning$ -- 17
+while$ -- 147
+width$ -- 0
+write$ -- 391
+(There were 6 error messages)

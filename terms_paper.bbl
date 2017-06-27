@@ -63,6 +63,17 @@
 \url{http://www.nj.com/monmouth/index.ssf/2015/04/post\_18.html}}
 
 
+\bibitem{Dadvar2012Cyberbullying}
+{Maral Dadvar} {and} {Franciska de Jong}. 2012.
+\newblock \showarticletitle{Cyberbullying Detection: A Step Toward a Safer
+  Internet Yard}. In {\em Proceedings of the 21st International Conference on
+  World Wide Web} {\em (WWW '12 Companion)}. ACM, New York, NY, USA, 121--126.
+\newblock
+\showISBNx{978-1-4503-1230-1}
+\showDOI{%
+\url{http://dx.doi.org/10.1145/2187980.2187995}}
+
+
 \bibitem{Dadvar2012Towards}
 {Maral Dadvar}, {Roeland Ordelman}, {Franciska~de Jong}, {and} {Dolf
   Trieschnigg}. 2012.
@@ -105,18 +116,82 @@
 
 
 \bibitem{Duggan2014Online}
-{Maeve Duggan}. 2014.
+{Maeve Duggan}, {Lee Rainie}, {Aaron Smith}, {Cary Funk}, {Amanda Lenhart},
+  {and} {Mary Madden}. 2014.
 \newblock {\em Online Harassment}.
-\newblock {T}echnical {R}eport. Pew Research Center.
+\newblock {T}echnical {R}eport. Pew Research Center. 1--64 pages.
 \newblock
+\showURL{%
+\url{http://www.pewinternet.org/2014/10/22/online-harassment/}}
 
 
 \bibitem{Guberman2017Challenges}
 {Joshua Guberman} {and} {Libby Hemphill}. 2017.
 \newblock \showarticletitle{Challenges in Modifying Existing Scales for
-  Detecting Harassment in Individual Tweets}. In {\em 50th Annual Hawaii
-  International Conference on System Sciences (HICSS-50)}.
+  Detecting Harassment in Individual Tweets}.
 \newblock
+\showISBNx{978-0-9981331-0-2}
+\showDOI{%
+\url{http://dx.doi.org/10.24251/HICSS.2017.267}}
+
+
+\bibitem{Herring1999Rhetorical}
+{Susan~C. Herring}. 1999.
+\newblock \showarticletitle{The Rhetorical Dynamics of Gender Harassment
+  On-Line}.
+\newblock {\em The Information Society\/}  {15} (1999), 151--167.
+\newblock
+
+
+\bibitem{Jones2013Online}
+{Lisa~M. Jones}, {Kimberly~J. Mitchell}, {and} {David Finkelhor}. 2013.
+\newblock \showarticletitle{Online harassment in context: Trends from three
+  Youth Internet Safety Surveys (2000, 2005, 2010).}
+\newblock {\em Psychology of Violence\/} {3}, 1 (2013), 53--69.
+\newblock
+\showISSN{2152-081X, 2152-0828}
+\showDOI{%
+\url{http://dx.doi.org/10.1037/a0030309}}
+
+
+\bibitem{Lenhart2007Cyberbullying}
+{Amanda Lenhart}. 2007.
+\newblock {\em Cyberbullying}.
+\newblock {T}echnical {R}eport.
+\newblock
+\showURL{%
+\url{http://www.pewinternet.org/2007/06/27/cyberbullying/}}
+
+
+\bibitem{Lenhart2010Cyberbullying}
+{Amanda Lenhart}. 2010.
+\newblock Cyberbullying 2010: What the Research Tells Us.
+\newblock   (2010).
+\newblock
+\showURL{%
+\url{http://www.pewinternet.org/2010/05/06/cyberbullying-2010-what-the-research-tells-us/}}
+
+
+\bibitem{Lenhart2016Online}
+{Amanda Lenhart}, {Michele Ybarra}, {Kathryn Zickuhr}, {and} {Myeshia
+  Price-Feeney}. 2016.
+\newblock {\em Online Harrassment, Digital Abuse, and Cyberstalking in
+  America}.
+\newblock {T}echnical {R}eport. Data \& Society Research Institute and the
+  Center for Innovative Public Health Research. 1--59 pages.
+\newblock
+\showURL{%
+\url{OnlineHarassment,DigitalAbuse,andCyberstalkinginAmerica}}
+
+
+\bibitem{Moor2010Flaming}
+{Peter~J. Moor}, {Ard Heuvelman}, {and} {Ria Verleur}. 2010.
+\newblock \showarticletitle{Flaming on YouTube}.
+\newblock {\em Computers in Human Behavior\/} {26}, 6 (2010), 1536--1546.
+\newblock
+\showISSN{07475632}
+\showDOI{%
+\url{http://dx.doi.org/10.1016/j.chb.2010.05.023}}
 
 
 \bibitem{Pater2016Characterizations}
@@ -140,6 +215,16 @@
 \url{http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=6147681}}
 
 
+\bibitem{Sheridan2007Is}
+{L.~P. Sheridan} {and} {T. Grant}. 2007.
+\newblock \showarticletitle{Is cyberstalking different?}
+\newblock {\em Psychology, Crime \& Law\/} {13}, 6 (2007), 627--640.
+\newblock
+\showISSN{1068-316X, 1477-2744}
+\showDOI{%
+\url{http://dx.doi.org/10.1080/10683160701340528}}
+
+
 \bibitem{Sood2012Automatic}
 {Sara~Owsley Sood}, {Elizabeth~F. Churchill}, {and} {Judd Antin}. 2012.
 \newblock \showarticletitle{Automatic identification of personal insults on
@@ -149,6 +234,43 @@
 \newblock
 \showURL{%
 \url{http://onlinelibrary.wiley.com/doi/10.1002/asi.21690/full}}
+
+
+\bibitem{Turkle2015Reclaiming}
+{Sherry Turkle}. 2015.
+\newblock {\em Reclaiming Conversation: The Power of Talk in a Digital Age\/}
+  (1st edition ed.).
+\newblock Penguin Press, New York.
+\newblock
+\showISBNx{978-1-59420-555-2}
+
+
+\bibitem{Wolak2007Does}
+{Janis Wolak}, {Kimberly~J Mitchell}, {and} {David Finkelhor}. 2007.
+\newblock \showarticletitle{Does online harassment constitute bullying? An
+  exploration of online harassment by known peers and online-only contacts}.
+\newblock {\em J. Adolesc. Health\/} {41}, 6 Suppl 1 (2007), S51--8.
+\newblock
+
+
+\bibitem{Yin2009Detection}
+{Dawei Yin}, {Zhenzhen Xue}, {Liangjie Hong}, {Brian~D Davison}, {April
+  Kontostathis}, {and} {Lynne Edwards}. 2009.
+\newblock \showarticletitle{Detection of harassment on web 2.0}.
+\newblock {\em Proceedings of the Content Analysis in the WEB\/}  {2} (2009),
+  1--7.
+\newblock
+
+
+\bibitem{Cetin2011Cyber}
+{Bayram Çetin}, {Erkan Yaman}, {and} {Adem Peker}. 2011.
+\newblock \showarticletitle{Cyber victim and bullying scale: A study of
+  validity and reliability}.
+\newblock {\em Computers \& Education\/} {57}, 4 (2011), 2261--2271.
+\newblock
+\showISSN{0360-1315(Print)}
+\showDOI{%
+\url{http://dx.doi.org/10.1016/j.compedu.2011.06.014}}
 
 
 \end{thebibliography}
