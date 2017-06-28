@@ -83,6 +83,9 @@
   {Elisabeth Métais}, {and} {Hans Wortmann} (Eds.). Springer Berlin
   Heidelberg, 277--283.
 \newblock
+\showISBNx{978-3-642-31177-2 978-3-642-31178-9}
+\showURL{%
+\url{http://link.springer.com/chapter/10.1007/978-3-642-31178-9\_34}}
 
 
 \bibitem{Davis2015Parents}
@@ -115,28 +118,61 @@
 \url{http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/download/3841Karthik/4384}}
 
 
+\bibitem{Dooley2009Cyberbullying}
+{Julian~J. Dooley}, {Jacek Py?alski}, {and} {Donna Cross}. 2009.
+\newblock \showarticletitle{Cyberbullying Versus Face-to-Face Bullying: A
+  Theoretical and Conceptual Review}.
+\newblock {\em Zeitschrift f?r Psychologie / Journal of Psychology\/} {217}, 4
+  (2009), 182--188.
+\newblock
+\showISSN{0044-3409}
+\showDOI{%
+\url{http://dx.doi.org/10.1027/0044-3409.217.4.182}}
+
+
 \bibitem{Duggan2014Online}
 {Maeve Duggan}, {Lee Rainie}, {Aaron Smith}, {Cary Funk}, {Amanda Lenhart},
   {and} {Mary Madden}. 2014.
 \newblock {\em Online Harassment}.
 \newblock {T}echnical {R}eport. Pew Research Center. 1--64 pages.
 \newblock
-\showURL{%
-\url{http://www.pewinternet.org/2014/10/22/online-harassment/}}
+
+
+\bibitem{Grigg2010CyberAggression}
+{Dorothy~Wunmi Grigg}. 2010.
+\newblock \showarticletitle{Cyber-Aggression: Definition and Concept of
+  Cyberbullying}.
+\newblock {\em Australian Journal of Guidance \& Counselling\/} {20}, 2 (2010),
+  143--156.
+\newblock
+\showISSN{10372911}
+\showDOI{%
+\url{http://dx.doi.org/10.1375/ajgc.20.2.143}}
+
+
+\bibitem{Grigg2012Definitional}
+{Dorothy~W. Grigg}. 2012.
+\newblock \showarticletitle{Definitional constructs of cyber-bullying and
+  cyber-aggression from a triangulatory overview: a preliminary study into
+  elements of cyber-bullying}.
+\newblock {\em Journal of Aggression, Conflict and Peace Research\/} {4}, 4
+  (2012), 202--215.
+\newblock
+\showISSN{1759-6599}
+\showDOI{%
+\url{http://dx.doi.org/10.1108/17596591211270699}}
 
 
 \bibitem{Guberman2017Challenges}
 {Joshua Guberman} {and} {Libby Hemphill}. 2017.
 \newblock \showarticletitle{Challenges in Modifying Existing Scales for
-  Detecting Harassment in Individual Tweets}.
+  Detecting Harassment in Individual Tweets}. In {\em 50th Annual Hawaii
+  International Conference on System Sciences (HICSS-50)}.
 \newblock
-\showISBNx{978-0-9981331-0-2}
-\showDOI{%
-\url{http://dx.doi.org/10.24251/HICSS.2017.267}}
 
 
 \bibitem{Herring1999Rhetorical}
-{Susan~C. Herring}. 1999.
+{Susan~C Herring}. 1999.
 \newblock \showarticletitle{The Rhetorical Dynamics of Gender Harassment
   On-Line}.
 \newblock {\em The Information Society\/}  {15} (1999), 151--167.
@@ -157,7 +193,6 @@
 \bibitem{Lenhart2007Cyberbullying}
 {Amanda Lenhart}. 2007.
 \newblock {\em Cyberbullying}.
-\newblock {T}echnical {R}eport.
 \newblock
 \showURL{%
 \url{http://www.pewinternet.org/2007/06/27/cyberbullying/}}
@@ -194,6 +229,24 @@
 \url{http://dx.doi.org/10.1016/j.chb.2010.05.023}}
 
 
+\bibitem{u.s._department_of_health_and_human_services_what_2012}
+{U.S.~Department of Health {and} Human~Services}. 2012.
+\newblock What is {Cyberbullying}.
+\newblock   (mar, 2012).
+\newblock
+\showURL{%
+\url{https://www.stopbullying.gov/cyberbullying/what-is-it/index.html}}
+
+
+\bibitem{Olweus1993Bullying}
+{Dan Olweus}. 1993.
+\newblock {\em Bullying at School: What We Know and What We Can Do\/} (1
+  edition ed.).
+\newblock Wiley-Blackwell, Oxford, UK ; Cambridge, USA.
+\newblock
+\showISBNx{978-0-631-19241-1}
+
+
 \bibitem{Pater2016Characterizations}
 {Jessica~A. Pater}, {Moon~K. Kim}, {Elizabeth~D. Mynatt}, {and} {Casey
   Fiesler}. 2016.
@@ -225,6 +278,19 @@
 \url{http://dx.doi.org/10.1080/10683160701340528}}
 
 
+\bibitem{Smith2008Cyberbullying}
+{Peter~K. Smith}, {Jess Mahdavi}, {Manuel Carvalho}, {Sonja Fisher}, {Shanette
+  Russell}, {and} {Neil Tippett}. 2008.
+\newblock \showarticletitle{Cyberbullying: its nature and impact in secondary
+  school pupils}.
+\newblock {\em Journal of Child Psychology and Psychiatry\/} {49}, 4 (2008),
+  376--385.
+\newblock
+\showISSN{0021-9630, 1469-7610}
+\showDOI{%
+\url{http://dx.doi.org/10.1111/j.1469-7610.2007.01846.x}}
+
+
 \bibitem{Sood2012Automatic}
 {Sara~Owsley Sood}, {Elizabeth~F. Churchill}, {and} {Judd Antin}. 2012.
 \newblock \showarticletitle{Automatic identification of personal insults on
@@ -245,6 +311,17 @@
 \showISBNx{978-1-59420-555-2}
 
 
+\bibitem{Vandebosch2008Defining}
+{Heidi Vandebosch} {and} {Katrien Van~Cleemput}. 2008.
+\newblock \showarticletitle{Defining Cyberbullying: A Qualitative Research into
+  the Perceptions of Youngsters}.
+\newblock {\em CyberPsychology \& Behavior\/} {11}, 4 (2008), 499--503.
+\newblock
+\showISSN{1094-9313, 1557-8364}
+\showDOI{%
+\url{http://dx.doi.org/10.1089/cpb.2007.0042}}
+
+
 \bibitem{Wolak2007Does}
 {Janis Wolak}, {Kimberly~J Mitchell}, {and} {David Finkelhor}. 2007.
 \newblock \showarticletitle{Does online harassment constitute bullying? An
@@ -253,13 +330,15 @@
 \newblock
 
 
-\bibitem{Yin2009Detection}
-{Dawei Yin}, {Zhenzhen Xue}, {Liangjie Hong}, {Brian~D Davison}, {April
+\bibitem{yin_detection_2009}
+{Dawei Yin}, {Zhenzhen Xue}, {Liangjie Hong}, {Brian~D. Davison}, {April
   Kontostathis}, {and} {Lynne Edwards}. 2009.
 \newblock \showarticletitle{Detection of harassment on web 2.0}.
 \newblock {\em Proceedings of the Content Analysis in the WEB\/}  {2} (2009),
   1--7.
 \newblock
+\showURL{%
+\url{http://www.academia.edu/24380322/Detection_of_Harassment_on_Web_2.0}}
 
 
 \bibitem{Cetin2011Cyber}
